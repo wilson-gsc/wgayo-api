@@ -1,4 +1,4 @@
 ﻿{
-    "connectionString": "mongodb://localhost/node-mongo-registration-login-api",
-    "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
+    "connectionString": "mongodb+srv://wilson:asdf1234@cluster0.skgzn.mongodb.net/angular10api?retryWrites=true&w=majority",
+    "secret": "asdf1234"
 }
